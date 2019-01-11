@@ -1,7 +1,7 @@
 # ANN-from-scratch
 This project is to code up the neural network object from scratch with python. Only Numpy library is required.
 To make it simple, Logistic or Sigmoid function is used as activation function for all nodes.
-The ANN object is configurable which allow user to configure hidden size, no. of hiddenm, learning rate and limited iteration
+The ANN object is configurable which allows users to configure hidden layer size, no. of hidden layer, learning rate and limited iteration
 
 # Summary of the code in training part
 1) Feedforward - Calculate the initial predicted result by multiplying the input by weights and biases with non-linear transformation by activation fucntion
